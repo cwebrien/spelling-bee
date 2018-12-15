@@ -1,0 +1,2 @@
+# spelling-bee
+Solves spelling
